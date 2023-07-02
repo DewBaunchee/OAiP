@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.793,=C:\Users\vmega\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,=D:\University\OAiP\LAB5\Goal 1\Delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,D:\University\OAiP\LAB5\Goal 1\Delphi\Unit1.dfm=D:\University\OAiP\LAB5\Goal 1\Delphi\EditModal.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,=E:\University\OAiP\LAB5\Goal 1\Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,D:\University\OAiP\LAB5\Goal 1\Delphi\DblLinkedListClass.pas=D:\University\OAiP\LAB5\Goal 1\Delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,D:\University\OAiP\LAB5\Goal 1\Delphi\Goal_1.dproj=C:\Users\vmega\OneDrive\Документы\Embarcadero\Studio\Projects\Project13.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,D:\University\OAiP\LAB5\Goal 1\Delphi\Unit1.dfm=D:\University\OAiP\LAB5\Goal 1\Delphi\AddModal.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,=D:\University\OAiP\LAB5\Goal 1\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,D:\University\OAiP\LAB5\Goal 1\Delphi\Unit1.pas=D:\University\OAiP\LAB5\Goal 1\Delphi\AddModal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,D:\University\OAiP\LAB5\Goal 1\Delphi\Unit1.pas=C:\Users\vmega\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,D:\University\OAiP\LAB5\Goal 1\Delphi\Unit1.dfm=C:\Users\vmega\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,D:\University\OAiP\LAB5\Goal 1\Delphi\Unit1.pas=D:\University\OAiP\LAB5\Goal 1\Delphi\EditModal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,=D:\University\OAiP\LAB5\Goal 1\Delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

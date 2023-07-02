@@ -1,0 +1,11 @@
+.idea
+*.iml
+
+.vs
+
+__history
+__recovery
+
+Win32
+out
+cmake-build-debug

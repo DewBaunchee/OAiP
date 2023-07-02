@@ -1,0 +1,6 @@
+Is entered matrix identity?
+0, 0, 0, 1
+0, 0, 1, 0
+0, 1, 0, 0
+1, 0, 0, 0
+NO
